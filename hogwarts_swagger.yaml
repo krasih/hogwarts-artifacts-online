@@ -1,0 +1,6 @@
+openapi: 3.2.0
+info:
+  title: Hogwarts Artifacts Online
+  link: https://app.swaggerhub.com/apis/Washingtonwei/hogwarts-openapi/3.2.0
+  documentation: https://app.swaggerhub.com/apis-docs/Washingtonwei/hogwarts-openapi/3.2.0
+  description: Hogwarts Artifacts Online provides REST API to CRUD artifacts, wizards, and users.
